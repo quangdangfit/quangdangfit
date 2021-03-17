@@ -15,7 +15,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/quangdangfit/quangdangfit/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: [@quangdangfit](https://twitter.com/Quangdangfit).
+- 📫 How to reach me: [@quangdangfit](https://twitter.com/quangdangfit).
 
 **Languages and Tools:**  
 
@@ -24,7 +24,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/mongodb.png"></code>
 <code><img height="20" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/mysql.png"></code>
 <code><img height="20" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/postgresql.png"></code>
+<code><img height="20" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/rabbitmq.png"></code>
 <code><img height="20" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/redis.png"></code>
+<code><img height="20" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/aws.png"></code>
 <code><img height="20" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/git.png"></code>
 
 📈 My GitHub Stats

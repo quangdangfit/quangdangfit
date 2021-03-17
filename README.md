@@ -1,7 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/quangdangfit/">
   <img align="left" alt="Quang's LinkedIN" width="22px" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/linkedin.gif" />
+</a>
+<a href="https://twitter.com/quangdangfit">
   <img align="left" alt="Quang's Twitter" width="22px" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/twitter.gif" />
+</a>
+<a href="https://quangdang.me">
   <img align="left" alt="Quang's Portfolio" width="22px" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/link.png" />
 </a>
 

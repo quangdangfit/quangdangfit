@@ -1,6 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/quangdangfit/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Quang's LinkedIN" width="22px" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/linkedin.gif" />
+  <img align="left" alt="Quang's Twitter" width="22px" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/twitter.gif" />
+  <img align="left" alt="Quang's Portfolio" width="22px" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/link.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=quangdangfit.quangdangfit)

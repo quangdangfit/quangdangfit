@@ -34,8 +34,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/git.png"></code>
 <code><img height="20" src="https://github.com/quangdangfit/quangdangfit/blob/master/contents/solr.png"></code>
 
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=quangdangfit&show_icons=true&theme=gotham" alt="quangdangfit" />
-
 

@@ -8,7 +8,6 @@ Hi, I'm [Quang](https://quangdang.live/), a passionate self-taught web developer
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: [@quangdangfit](https://twitter.com/quangdangfit).
 
 **Languages and Tools:**  
 
